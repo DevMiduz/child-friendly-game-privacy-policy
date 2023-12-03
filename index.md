@@ -1,4 +1,4 @@
-** Privacy Policy
+# Privacy Policy
 
 A fun and educational game for children of all ages. It is designed to provide a safe and enjoyable gaming experience for kids and their parents.
 
